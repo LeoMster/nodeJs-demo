@@ -1,0 +1,26 @@
+{
+  "name": "hang",
+  "version": "1.0.0",
+  "description": "",
+  "main": "template.js",
+  "dependencies": {
+    "eslint": "^6.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeoMster/nodeJs-demo.git"
+  },
+  "keywords": [
+    "LiHang199893"
+  ],
+  "author": "hang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeoMster/nodeJs-demo/issues"
+  },
+  "homepage": "https://github.com/LeoMster/nodeJs-demo#readme"
+}
